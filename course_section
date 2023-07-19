@@ -1,0 +1,40 @@
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`) 
+VALUES ('1', '1', 'A');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('1', '4', 'A');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('1', '6', 'B');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('1', '9', 'B');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('2', '1', 'C');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('2', '5', 'B');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('2', '6', 'A');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('2', '9', 'B');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('3', '1', 'C');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('3', '12');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('3', '13');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('4', '11');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('4', '12');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('5', '1', 'B');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('5', '5', 'C');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`, `Grade`)
+VALUES ('5', '9', 'C');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('5', '11');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('5', '13');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('6', '11');
+INSERT INTO `enrollment` (`S_ID`, `C_Sec_ID`)
+VALUES ('6', '12');
